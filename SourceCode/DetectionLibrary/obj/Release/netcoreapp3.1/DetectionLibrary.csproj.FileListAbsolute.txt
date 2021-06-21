@@ -1,0 +1,8 @@
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\bin\Release\netcoreapp3.1\DetectionLibrary.deps.json
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\bin\Release\netcoreapp3.1\DetectionLibrary.dll
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\bin\Release\netcoreapp3.1\DetectionLibrary.pdb
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\obj\Release\netcoreapp3.1\DetectionLibrary.csproj.CoreCompileInputs.cache
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\obj\Release\netcoreapp3.1\DetectionLibrary.AssemblyInfoInputs.cache
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\obj\Release\netcoreapp3.1\DetectionLibrary.AssemblyInfo.cs
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\obj\Release\netcoreapp3.1\DetectionLibrary.dll
+E:\Practice\Daiwa\SourceCode\DetectionLibrary\obj\Release\netcoreapp3.1\DetectionLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OutlierDetection/1.0.0": {
+        "dependencies": {
+          "DetectionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OutlierDetection.dll": {}
+        }
+      },
+      "DetectionLibrary/1.0.0": {
+        "runtime": {
+          "DetectionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OutlierDetection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DetectionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
